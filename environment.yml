@@ -1,0 +1,6 @@
+dependencies:
+  - matplotlib==3.2.1
+  - numpy==1.18.1
+  - pandas==1.0.3
+  - requests==2.23.0
+  - Cartopy==0.18.0
